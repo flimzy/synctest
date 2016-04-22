@@ -4,4 +4,3 @@ Writin' a book, writin' a book...
 
 books are cool
 
-magazines drool
