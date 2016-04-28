@@ -17,3 +17,4 @@ Fruit Salad
 - Oranges
 - Bananas
 - Coconut
+- Sugar
