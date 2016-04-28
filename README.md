@@ -18,3 +18,4 @@ Fruit Salad
 - Bananas
 - Coconut
 - Sugar
+- Eggs (in a fruit salad??)
